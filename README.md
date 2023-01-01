@@ -5,18 +5,20 @@
 调研了好几个产品，
 1. 微博
 2. 知乎想法
-3. 豆瓣
-4. oschina 动弹
+3. ~~豆瓣~~
+4. ~~oschina 动弹~~
 5. twitter
 6. github issue
 7. github wiki
-8. qq doc
+8. qq doc /google doc
 9. yuque
-10. google groups
-11. reddit post/link
-12. b 站空间
-13. slack
+10. ~google groups~
+11. ~~reddit post/link~~
+12. ~~b 站空间~~
+13. slack (非免费）
 14. medium/blogspot
+15. wolai 文档
+16. 有道、印象 （都卡）
 
 很多产品不容易满足我的需求：有标签可回溯、可被评论、评论可贴图片、评论可被重新编辑、链接要直接生效、社区国内有氛围、不丢失信息、可公开、与私人信息隔离、最好支持markdown、最好有层次感、最好支持表情等。
 
